@@ -1,8 +1,7 @@
-// App.js
 import React from "react";
 import ProductList from "./ProductList";
 import { Provider } from "react-redux";
-import store from "./store"; // Import your Redux store
+import store from "./store"; 
 
 function App() {
   return (

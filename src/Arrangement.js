@@ -1,7 +1,4 @@
 import { useState } from "react";
-
-
-
 function Arrangement({ product}) {
   const [quantity, setQuantity] = useState(1);
 

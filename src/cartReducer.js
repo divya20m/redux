@@ -1,4 +1,3 @@
-// cartReducer.js
 const initialState = {
     cart: [],
   };
